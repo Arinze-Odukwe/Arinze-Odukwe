@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Arinze-Odukwe
-- 👀 I’m interested in Front-End development and Blockchains (Ethereum & EVM chains)
+- 👀 I’m interested in Front-End development and Blockchains (Ethereum, EVM chains and Stellar)
 - 🌱 I’m currently learning Smart Contract Development
 - 💞️ I’m looking to collaborate on open-source projects soon
 - 📫 How to reach me arinzeodukwe95@gmail.com
